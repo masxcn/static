@@ -1,0 +1,9 @@
+:root {
+  --theme-color-primary: #656DE6;
+  --theme-color-primary-dark: #3943df;
+  --theme-color-primary-light: #9197ed;
+}
+.swiper-slide .title{position:absolute;left:0;bottom:0;width:100%;background:rgba(0,0,0,0.5);color:#fff;font-size:18px;padding:0 10px;line-height:55px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+#gotop{display:none;position:fixed;cursor:pointer;width:65px;height:65px;bottom:80px;right:30px}
+#art-content img{max-width:100%;display:block;margin:10px auto;vertical-align:middle}
+#art-content section{max-width:100%;}
